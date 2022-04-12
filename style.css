@@ -8,7 +8,7 @@ h1{
     
 }
 body{
-    background-color:beige;
+    background-color:whitesmoke;
     margin:40px;
 }
 /* to remove bullets from ul and make it clickable,to prevent nav bar from scrolling 
@@ -30,7 +30,7 @@ li a:hover{
 /* to make the nav bar be horizontal*/
 li{
      display:inline;
-     padding:10px;
+     padding:11px;
      font-weight:bolder;
      font-size:larger;
     
